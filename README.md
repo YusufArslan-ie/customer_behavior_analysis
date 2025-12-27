@@ -135,4 +135,4 @@ This project analyzes transactional data from **3,900 purchases** across various
 
 ---
 
-**Author:** [Yusuf Mehmet Arslan]
+**Author:** Yusuf Mehmet Arslan
